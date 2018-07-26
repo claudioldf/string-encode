@@ -1,16 +1,15 @@
 {
-    "name": "paquettg/string-encode",
+    "name": "claudioldf/string-encode",
     "type": "library",
     "description": "Facilitating the process of altering string encoding in PHP.",
     "version": "0.1.1",
     "keywords": ["encoding", "charset", "string"],
-    "homepage": "https://github.com/paquettg/string-encoder",
+    "homepage": "https://github.com/claudioldf/string-encode",
     "license": "MIT",
     "authors": [
         {
-            "name": "Gilles Paquette",
-            "email": "paquettg@gmail.com",
-            "homepage": "http://gillespaquette.ca"
+            "name": "Claudio Dias",
+            "email": "claudioldf@gmail.com"
         }
     ],
     "require": {
